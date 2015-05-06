@@ -1,0 +1,35 @@
+/* CSS Document */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-image: url('https://drive.google.com/uc?export=download&id=0B0YYPWPxRhHQNXJLdVAySzBoV2FCcERWZmU0NVlNaHhLbnhR');
+}
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 32px;
+  text-shadow: 2px 1px gray;
+}
+h3 {
+  font-size: 18px;
+  color: aqua;
+}
+nav a {
+  text-shadow: 2px 1px gray;
+  text-decoration: none;
+  padding: 10px 10px;
+  margin: 10px 5px;
+  background-color: lightGray;
+  border-radius: 4px;
+  color: white;
+}
+nav li {
+  display: inline;
+  list-style-type: none;
+}
+footer a {
+  display: inline;
+}
+projects img {
+  width: 300px;
+  height: 300px;
+}
