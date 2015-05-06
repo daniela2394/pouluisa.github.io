@@ -30,6 +30,9 @@ footer a {
   display: inline;
 }
 projects img {
-  width: 300px;
   height: 300px;
+  
+}
+.profile-photo {
+  width: 300px;
 }
