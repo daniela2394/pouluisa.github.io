@@ -45,4 +45,5 @@ footer a {
 iframe {
   width: 800px;
   height: 1000px;
+  margin: 0 auto;
 }
