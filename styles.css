@@ -3,14 +3,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   background-image: url('https://static.pexels.com/photos/1751/trees-abstract-bokeh.jpg');
-  background: -moz-linear-gradient(-45deg, rgba(156,252,217,0.42) 0%, rgba(203,235,255,0.44) 47%, rgba(255,255,255,0.47) 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(156,252,217,0.42)), color-stop(47%,rgba(203,235,255,0.44)), color-stop(100%,rgba(255,255,255,0.47))); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg, rgba(156,252,217,0.42) 0%,rgba(203,235,255,0.44) 47%,rgba(255,255,255,0.47) 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg, rgba(156,252,217,0.42) 0%,rgba(203,235,255,0.44) 47%,rgba(255,255,255,0.47) 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg, rgba(156,252,217,0.42) 0%,rgba(203,235,255,0.44) 47%,rgba(255,255,255,0.47) 100%); /* IE10+ */
-  background: linear-gradient(135deg, rgba(156,252,217,0.42) 0%,rgba(203,235,255,0.44) 47%,rgba(255,255,255,0.47) 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b9cfcd9', endColorstr='#78ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-}
+ }
 h1 {
   font-family: 'Lobster', cursive;
   font-size: 32px;
