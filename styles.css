@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  background-image: url('https://drive.google.com/uc?export=download&id=0B0YYPWPxRhHQNXJLdVAySzBoV2FCcERWZmU0NVlNaHhLbnhR');
+  background-image: url('https://static.pexels.com/photos/1751/trees-abstract-bokeh.jpg');
   background: -moz-linear-gradient(-45deg, rgba(156,252,217,0.42) 0%, rgba(203,235,255,0.44) 47%, rgba(255,255,255,0.47) 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(156,252,217,0.42)), color-stop(47%,rgba(203,235,255,0.44)), color-stop(100%,rgba(255,255,255,0.47))); /* Chrome,Safari4+ */
   background: -webkit-linear-gradient(-45deg, rgba(156,252,217,0.42) 0%,rgba(203,235,255,0.44) 47%,rgba(255,255,255,0.47) 100%); /* Chrome10+,Safari5.1+ */
