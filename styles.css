@@ -62,5 +62,6 @@ iframe {
 #about p {
   font: 12px helvetica;
   color: white;
+  column-width: 400px;
 }
 
