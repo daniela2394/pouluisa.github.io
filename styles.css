@@ -59,8 +59,6 @@ iframe {
 }
 
 #projects {
-  margin: 0 auto;
-  width: 1200px;
-  display: block;
+  align-items: center;
 }
 
