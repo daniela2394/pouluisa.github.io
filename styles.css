@@ -35,7 +35,8 @@ footer a {
 }
   #projects img {
   height: 300px;
-  position: center;
+  margin: 0 auto
+  display: block;
 }
 .profile-photo {
   width: 300px;
