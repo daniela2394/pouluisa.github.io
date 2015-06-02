@@ -2,9 +2,8 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  background-image: url('https://static.pexels.com/photos/1751/trees-abstract-bokeh.jpg');
+  background-image: url('https://static.pexels.com/photos/1751/trees-abstract-bokeh.jpg') no-repeat center center fixed;
   background-size: cover;
-  background-repeat: no-repeat;
  }
 h1 {
   font-family: 'Lobster', cursive;
