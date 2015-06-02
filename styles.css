@@ -33,7 +33,7 @@ nav li {
 footer a {
   display: inline;
 }
-projects + img {
+  #projects img {
   height: 300px;
   position: center;
 }
