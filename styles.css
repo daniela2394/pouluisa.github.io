@@ -36,7 +36,7 @@ footer a {
   #projects img {
   height: 200px;
   margin: 0 auto;
-  justify: center;
+  text-align: center;
 }
 .profile-photo {
   width: 300px;
