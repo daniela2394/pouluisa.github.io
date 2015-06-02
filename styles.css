@@ -3,7 +3,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   background-image: url('https://static.pexels.com/photos/1751/trees-abstract-bokeh.jpg');
-  background-size: 100% 100%;
+  background-size: auto;
   background-repeat: no-repeat;
  }
 h1 {
