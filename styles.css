@@ -21,10 +21,10 @@ nav a {
   text-shadow: 2px 1px gray;
   text-decoration: none;
   padding: 10px 10px;
-  margin: 0 auto;
+  margin: 10px 5px;
   background-color: #31bba8;
   opacity: 0.8;
-  border-radius: 2px;
+  border-radius: 0px;
   color: white;
 }
 nav li {
