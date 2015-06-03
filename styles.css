@@ -68,4 +68,6 @@ footer a {
 #contact p {
   color: white;
 }
-
+.form {
+  font: 12px helvetica;
+} 
